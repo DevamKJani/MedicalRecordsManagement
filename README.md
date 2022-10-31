@@ -6,8 +6,6 @@ Healthcare sector Record system for the records patient, so that one never have 
 The project is developed and maintained by
 - Harsh Keshruwala
 - Devam Kalpesh Jani
-- Boaz Xavier
-- Arth Vahaluwala
 
 # Instructions to run the API Backend
 - Clone the repo `git clone https://github.com/Akshat-Jain/EHR-System.git`
