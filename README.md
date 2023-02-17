@@ -1,6 +1,6 @@
 # Medical Records Management System
 
-Healthcare sector Record system for the records patient, so that one never have to carry their medical files physically to a doctor again!
+Healthcare Management, moved over Blockchain!
 
 ## Developers and Maintainers
 The project is developed and maintained by
@@ -8,8 +8,8 @@ The project is developed and maintained by
 - Devam Kalpesh Jani
 
 # Instructions to run the API Backend
-- Clone the repo `git clone https://github.com/Akshat-Jain/EHR-System.git`
-- move to the directoory we cloned in the previous step `cd EHR-System`.
+- clone the repo - https://github.com/DevamKJani/MedicalRecordsManagement.git
+- move to the directory we cloned in the previous step `cd HM_System`.
 - At first, install [Hyperledger composer](https://hyperledger.github.io/composer/latest/installing/installing-prereqs.html). Then install the [development environment](https://hyperledger.github.io/composer/latest/installing/development-tools.html).
 - In order to setup your Blockchain network and generate Hyperledger Composer Rest Server, execute the following commands:
 - `composer archive create -t dir -n .`
