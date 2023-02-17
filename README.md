@@ -2,8 +2,8 @@
 
 Healthcare Management, moved over Blockchain!
 
-## Developers and Maintainers
-The project is developed and maintained by
+## Developers
+The project is developed by
 - Harsh Keshruwala
 - Devam Kalpesh Jani
 
